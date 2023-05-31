@@ -1,0 +1,16 @@
+{
+	"app":{
+		"host": "",
+		"port": "",
+		"telegram":{
+			"api_id": 0,
+			"api_hash": "",
+			"disk_channel": "@telegram"
+		}
+	},
+	"auth":{
+		"username": "admin",
+		"password": "admin",
+		"token": "5807CE12F0D0367058F48BCA72BC968A"
+	}
+}
